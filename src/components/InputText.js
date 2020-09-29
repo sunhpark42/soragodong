@@ -12,8 +12,16 @@ function InputText() {
 
     const onEnterKey = (e) => {
         if (e.key === 'Enter') {
-            var i = Math.ceil(Math.random() * 100) % 9;
-            setAnswer(answerSheet.answers[i]);
+            if (question.indexOf("언제") >= 0) {
+                var date = new Date(+(new Date()) + Math.floor(Math.random()*60000000000));
+                var y = date.getFullYear();
+                var m = date.getMonth() + 1;
+                var d = date.getDate();
+                setAnswer(y + " / " + m + " / " + d);
+            } else {
+                var i = Math.ceil(Math.random() * 100) % 9;
+                setAnswer(answerSheet.answers[i]);
+            }
         }
     }
     return (
