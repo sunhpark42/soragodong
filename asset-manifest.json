@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/soragodong/static/css/main.0e08f4a4.chunk.css",
+    "main.js": "/soragodong/static/js/main.fb069597.chunk.js",
+    "main.js.map": "/soragodong/static/js/main.fb069597.chunk.js.map",
+    "runtime-main.js": "/soragodong/static/js/runtime-main.f829fd22.js",
+    "runtime-main.js.map": "/soragodong/static/js/runtime-main.f829fd22.js.map",
+    "static/js/2.66ae6155.chunk.js": "/soragodong/static/js/2.66ae6155.chunk.js",
+    "static/js/2.66ae6155.chunk.js.map": "/soragodong/static/js/2.66ae6155.chunk.js.map",
+    "index.html": "/soragodong/index.html",
+    "precache-manifest.8fa31b4164ac524004ea2f5735e7553f.js": "/soragodong/precache-manifest.8fa31b4164ac524004ea2f5735e7553f.js",
+    "service-worker.js": "/soragodong/service-worker.js",
+    "static/css/main.0e08f4a4.chunk.css.map": "/soragodong/static/css/main.0e08f4a4.chunk.css.map",
+    "static/js/2.66ae6155.chunk.js.LICENSE.txt": "/soragodong/static/js/2.66ae6155.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f829fd22.js",
+    "static/js/2.66ae6155.chunk.js",
+    "static/css/main.0e08f4a4.chunk.css",
+    "static/js/main.fb069597.chunk.js"
+  ]
+}
