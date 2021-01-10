@@ -6,4 +6,5 @@
 
 * 질문에 '언제'라는 키워드를 추가하면 미래의 특정한 날짜를 답해줍니다. (최대 3년 이내)
 
-https://sunhpark42.github.io/soragodong/
+* 페이지 주소 : https://sunhpark42.github.io/soragodong/
+* 블로그 : https://developing-sunny.tistory.com/17
